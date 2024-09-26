@@ -2,8 +2,10 @@ import Link from "next/link";
 
 
 const mockUrls = [
-  "https://utfs.io/f/bc9aLWGXt2mZLbcgRg3HK5c2bJ93Ty6VAEFNCh1SwPzxu4on",
-  "https://utfs.io/f/bc9aLWGXt2mZ7npOErSanNpqQU8LBK45ofsVMyWTb3rXSRZH"
+  "https://utfs.io/f/bc9aLWGXt2mZj37t8TGZz6E9ZPIpJtiS21xoKnfvQdWBgATN",
+  "https://utfs.io/f/bc9aLWGXt2mZ8IfvDBMr90wXtM2BDsSmlqOU3WucCbpPxIAy",
+  "https://utfs.io/f/bc9aLWGXt2mZ9D1JA3dGYHBJVURWTat6d7A4IxmEzZFXgs95",
+  "https://utfs.io/f/bc9aLWGXt2mZilI7OYZuQbnmKOhAWIutPe3cTpGXELqg4H28",
 ]
 
 const mockImages = mockUrls.map((url, index) => ({
