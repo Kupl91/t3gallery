@@ -1,7 +1,8 @@
 ## TODO
 
-- [ ] Make it deploy (vercel) / Сделать развертывание (vercel)
-- [ ] Scaffold basic ui with mock data / Создать базовый интерфейс с моковыми данными
+- [x] Make it deploy (vercel) / Сделать развертывание (vercel)
+- [x] Scaffold basic ui with mock data / Создать базовый интерфейс с моковыми данными
+- [ ] Tidy up build process
 - [ ] Actually set up a database (vercel postgres) / На самом деле настроить базу данных (vercel postgres)
 - [ ] Attach database to UI / Привязать базу данных к UI
 - [ ] Add authentication (w/ clerk) / Добавить аутентификацию (с Clerk)
