@@ -1,4 +1,4 @@
-// Example model schema from the Drizzle docs
+// C:\Users\pavel.kuplensky\t3gallery\src\server\db\schema.ts
 // https://orm.drizzle.team/docs/sql-schema-declaration
 
 import { sql } from "drizzle-orm";
