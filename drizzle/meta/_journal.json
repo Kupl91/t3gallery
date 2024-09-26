@@ -8,6 +8,20 @@
       "when": 1727359851937,
       "tag": "0000_massive_sister_grimm",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1727375583227,
+      "tag": "0001_certain_silverclaw",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1727375622829,
+      "tag": "0002_burly_killraven",
+      "breakpoints": true
     }
   ]
 }
